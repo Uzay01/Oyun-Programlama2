@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kapi
+  - Tuzak
+  - gem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Arkaplan
+    uniqueID: 2004092361
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: zemin
+    uniqueID: 1765105533
+    locked: 0
+  - name: Karakterler
+    uniqueID: 567442541
+    locked: 0
